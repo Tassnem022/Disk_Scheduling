@@ -1,5 +1,5 @@
 # Disk_Scheduling
-GUI Application that has 5 algorithm for Disk Scheduling
+GUI Application has the 5 algorithms for Disk Scheduling
 1- FCFS
 2- SSTF
 3- CSAN
